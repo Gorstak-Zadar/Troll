@@ -1,3 +1,3 @@
-﻿# Troll
+# Unbridge
 
-PowerShell script. Run: .\Troll.ps1
+Batch script.
